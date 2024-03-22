@@ -28,7 +28,7 @@
    &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp QMARK
    &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O
    &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp SEMI
-                  &kp TAB &mo 1 &kp BSPC   &kp SPACE &mo 2 &kp RET
+                  &kp TAB &mo 1 &kp SPACE   &kp BKSP &mo 2 &kp RET
                         >;
                 };
                 lower_layer {
